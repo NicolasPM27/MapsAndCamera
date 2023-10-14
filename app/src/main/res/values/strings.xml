@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taller2_NicolasPadilla</string>
+    <string name="camera">CÁMARA</string>
+    <string name="map">MAPA</string>
+    <string name="take">TAKE</string>
+    <string name="image">Image</string>
+    <string name="video">Video</string>
+    <string name="pick_from_gallery">PICK FROM GALLERY</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="search">Buscar</string>
+    <string name="Address">Dirección</string>
+</resources>
